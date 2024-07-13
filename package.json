@@ -1,6 +1,6 @@
 {
   "name": "vikir-mobile-number",
-  "version": "0.0.1",
+  "version": "5.5.1",
   "description": "Capacitor plugin to get mobile number of device",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
